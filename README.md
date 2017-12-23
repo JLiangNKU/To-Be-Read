@@ -10,7 +10,7 @@
 
 * [【AlphaGo之后会是什么】一文读懂人工智能打德扑 ](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652009949&idx=3&sn=66f41f562605c342521fb355e3f3db45&chksm=f121012cc656883a71e47aa78a0a08b43d028a660280b9b37f9b25f535357e48564f81145cfa&mpshare=1&scene=24&srcid=1215TQUbfTZRKeP6OG3ruyRB#rd)
 
-* [教程 | 从头开始在Python中开发深度学习字幕生成模型 ] (http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734546&idx=2&sn=7fe918a35c35342e3c210c4eeebf0edc&chksm=871b3bacb06cb2ba7e51ddccf0c703d6f9346da5ba3909d4268485c031b77388a94e6f252019&mpshare=1&scene=24&srcid=1212JDmxALXxllC7n4TJneo4#rd)
+* [教程 | 从头开始在Python中开发深度学习字幕生成模型] (http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734546&idx=2&sn=7fe918a35c35342e3c210c4eeebf0edc&chksm=871b3bacb06cb2ba7e51ddccf0c703d6f9346da5ba3909d4268485c031b77388a94e6f252019&mpshare=1&scene=24&srcid=1212JDmxALXxllC7n4TJneo4#rd )
 
 * [学界 | 继图像识别后，图像标注系统也被对抗样本攻陷! ](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=4&sn=f57ea48caebe2edfe4582fd1f5a07437&chksm=871b3bf9b06cb2ef2bd63c72cfe55403425ddb525fb9b5283dcebf4c96e0972a1460226fa0f4&mpshare=1&scene=24&srcid=1212igEKXNN0aTe8LS85xw9o#rd)
 
