@@ -35,21 +35,21 @@
 
 * [AAAI前主席回怼马库斯，LeCun参战](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011127&idx=2&sn=cdd9a0cf86e3f26d9ab46e40b3a5af50&chksm=f1210e86c6568790b6bfa27fe9405537914b61de664865118bc41b1b80c9ccee245d6e3678a8&mpshare=1&scene=24&srcid=0106L0bMsgGtlxmsFBYdBxSo#rd)
 
-* []()
+* [学界 | 几张贴纸就让神经网络看不懂道路标志，伯克利为真实环境生成对抗样本](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735815&idx=5&sn=dd63d33dd27ecd34e27977fcc7682116&chksm=871ac0b9b06d49af4498318536da73f0f45e99708fb80eadbbb331b9c30f182cadd82b62a883&mpshare=1&scene=24&srcid=0106QEi57CfHcaSip5I0WJZG#rd)
 
-* []()
+* [资源 | 2017年GitHub中最为流行的30个开源机器学习项目](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735815&idx=4&sn=b5d745c00dbcdb365ae3eaeb8bbcbfd1&chksm=871ac0b9b06d49afbaea5d095fd67c0435ce03017d8d3008d29c91248152b9a34736855529f0&mpshare=1&scene=24&srcid=01060R0VZdLScpk7j3Uptplc#rd)
 
-* []()
+* [入门 | 简述迁移学习在深度学习中的应用](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735722&idx=4&sn=f465dae5c9a417732729e7df25f75668&chksm=871ac014b06d4902cbffac61bad39620b1709432d2069f3a993409ee28377b71d07f06ee569a&mpshare=1&scene=24&srcid=0106c9Ke0QHVwWaCxKcSkX91#rd)
 
-* []()
+* [从90年代的SRNN开始，纵览循环神经网络27年的研究进展](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735722&idx=1&sn=f0129db9d2fb64efab7819f2c1b65505&chksm=871ac014b06d4902e8a59093d378b87a65770327c7b1bb9e4a0c76f4649b6893937c09af3598&mpshare=1&scene=24&srcid=0106u6eetNuIBLoMY9tU1oid#rd)
 
-* []()
+* [学界 | 神奇的面包机！谷歌造出对抗样本的实体版](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735672&idx=5&sn=6cef8b232381a75ec18c4595fe0f9f35&chksm=871ac046b06d4950a53fab52f5fe9f1b2d2e51f88d49a7b0b0016c693164866fed8c010fcf58&mpshare=1&scene=24&srcid=010646d3UU0K5VNmWcDMeylQ#rd)
 
-* []()
+* [学界 | 马里兰大学论文：可视化神经网络的损失函数](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735630&idx=5&sn=28c1a7fcbb263064fe45d4460226b709&chksm=871ac070b06d4966cf119be2ac89b1b751472267def8eacb36be1db7d2f212681822894435ad&mpshare=1&scene=24&srcid=0106iDEN7AEAURxcdizZnXAO#rd)
 
-* []()
+* [学界 | 清华大学提出SA-VAE框架，通过单样本/少样本学习生成任意风格的汉字](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735505&idx=4&sn=54ae35bb11b73af4b59df00e9508f64e&chksm=871ac7efb06d4ef9bcc1ed141537e76f416ff27a7985445a32e6a2d9c8c1abeb40b25eb86d7d&mpshare=1&scene=24&srcid=0106WyhRHpwGzbbGjgjugHk3#rd)
 
-* []()
+* [机器之心学生读者福利：这些大学、教授在招博士生](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735505&idx=5&sn=6c37173b73e0d26c745ca1846f287135&chksm=871ac7efb06d4ef9c1b7c2dda2c55990526c311b7e003d27e2e25b7216711d3064663d76ee28&mpshare=1&scene=24&srcid=0106T2NBv8obN9n2VhNqCadu#rd)
 
 * []()
 
