@@ -29,7 +29,7 @@
 * [学界 | 何恺明等人提出新型半监督实例分割方法：学习分割Every Thing 
 ](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734172&idx=4&sn=85be53241bf4e1c450fd8233ebf06d7e&chksm=871b3a22b06cb334c4c5507d811afe390e751611434e2d618f654b5369efd3973a6a4d69ceb5&mpshare=1&scene=24&srcid=12047YQQQVfNoaWyCkyTL6r0#rd)
 
-* [华为前首席AI科学家裴健出任京东集团副总裁，向刘强东汇报](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011127&idx=1&sn=80526c3b38285f8aa9896458caf854f5&chksm=f1210e86c65687906c2dd20739e98a03ab02df1de018712c3b87a72ecd63d242583eebceb0eb&mpshare=1&scene=24&srcid=0106O1WSkn7hpvuPXDxo74z2#rd)
+* [华为前首席AI科学家裴健出任京东集团副总裁，向刘强东汇报](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011127&idx=1&sn=80526c3b38285f8aa9896458caf854f5&chksm=f1210e86c65687906c2dd20739e98a03ab02df1de018712c3b87a72ecd63d242583eebceb0eb&mpshare=1&scene=24&srcid=0106O1WSkn7hpvuPXDxo74z2#rd) done
 
 * [Yann LeCun：深度学习已死，可微分编程万岁！](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011186&idx=1&sn=60c84f2f0b474bce787992d6939d3857&chksm=f1210e43c6568755d221f343169f2ca3eb6ea99e282dcf6453888734f3472c5e754672fe1275&mpshare=1&scene=24&srcid=01063j9X3kX2CAXloUanvkOW#rd)
 
